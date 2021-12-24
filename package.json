@@ -1,0 +1,15 @@
+{
+  "name": "solidity-whitelist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gustavoteixeiradev/solidity-whitelist.git",
+  "author": "Gustavo Teixeira <contact@gustavoteixeira.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  },
+  	"devDependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+}
+}
